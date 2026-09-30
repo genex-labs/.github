@@ -1,3 +1,10 @@
+<p align="center" class="brand-mark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/genex-mark-dark.png">
+    <img src="brand/genex-mark.png" alt="GeneX Labs" width="140">
+  </picture>
+</p>
+
 # GeneX Labs Inc.
 
 GeneX studies computational methods relevant to gene editing and precision medicine. Focus areas include bioinformatics, analysis workflows and evaluation of research hypotheses. Public code is research material, not a clinical test, treatment or medical recommendation.
