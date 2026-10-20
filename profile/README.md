@@ -7,7 +7,7 @@
 
 # GeneX Labs Inc.
 
-Computational biology research and software for genomics and biodiversity sample data, using public data; no laboratory work. Focus areas include bioinformatics, analysis workflows and evaluation of research hypotheses. Public code is research material, not a clinical test, treatment or medical recommendation.
+Computational biology research and software for genomics and biodiversity sample data, using public data; no laboratory work. Its first public work, growth-horizon, measures how growth-condition predictions behave as microbial genomes move further from labelled relatives. Focus areas include bioinformatics, analysis workflows and evaluation of research hypotheses. Public code is research material, not a clinical test, treatment or medical recommendation.
 
 ## Open by design
 
@@ -15,4 +15,10 @@ Computational biology research and software for genomics and biodiversity sample
 
 **Our own work, and only ours.** Everything we publish here will be our own, built from public data and synthetic examples. It will never include client data, client projects, or anyone else's confidential information or intellectual property.
 
+## Public projects
+
+- [growth-horizon](https://github.com/genex-labs/growth-horizon): how growth-condition predictions behave as microbial genomes become more distant from labelled relatives, with taxonomic holdout, coverage and abstention.
+
 Contact: info@genexlabs.ca | Website: https://genexlabs.ca/
+
+Open-source parts made by others are credited where used.
